@@ -1,0 +1,10 @@
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources

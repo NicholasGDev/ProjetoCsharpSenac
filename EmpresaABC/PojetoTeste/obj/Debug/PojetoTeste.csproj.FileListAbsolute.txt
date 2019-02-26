@@ -1,0 +1,9 @@
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\bin\Debug\PojetoTeste.exe.config
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\bin\Debug\PojetoTeste.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\bin\Debug\PojetoTeste.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.Properties.Resources.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.csproj.GenerateResource.Cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\EmpresaABC\PojetoTeste\obj\Debug\PojetoTeste.frmTeste.resources

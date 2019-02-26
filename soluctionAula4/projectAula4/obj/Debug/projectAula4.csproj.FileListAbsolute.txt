@@ -1,0 +1,9 @@
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\bin\Debug\projectAula4.exe.config
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\bin\Debug\projectAula4.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\bin\Debug\projectAula4.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.Form1.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.Properties.Resources.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.csproj.GenerateResource.Cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\soluctionAula4\projectAula4\obj\Debug\projectAula4.pdb

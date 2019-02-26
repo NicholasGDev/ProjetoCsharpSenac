@@ -1,0 +1,11 @@
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\bin\Debug\Sistema Sorveteria.exe.config
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema Sorveteria.csprojResolveAssemblyReference.cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema_Sorveteria.frmLogin.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema_Sorveteria.Properties.Resources.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema Sorveteria.csproj.GenerateResource.Cache
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\bin\Debug\Sistema Sorveteria.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\bin\Debug\Sistema Sorveteria.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema Sorveteria.exe
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema Sorveteria.pdb
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema_Sorveteria.frmMenuPrincipal.resources
+C:\Users\nicholas.gorlando\Documents\ProjetoCSharp - nicholas\Sorveteria Nicholau\Sistema Sorveteria\obj\Debug\Sistema_Sorveteria.frmFuncionarios.resources
